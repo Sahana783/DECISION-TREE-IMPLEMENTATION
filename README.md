@@ -55,7 +55,7 @@ model but also how to understand and trust it, which is a critical part of respo
 
 <img width="1057" height="627" alt="Image" src="https://github.com/user-attachments/assets/872c26bc-b912-4b96-93cd-eb6ff844e01d" />
 
-<img width="1178" height="402" alt="Image" src="https://github.com/user-attachments/assets/929ece91-96f6-4b25-97c7-bfd1bc84c1db" />
+<img width="1676" height="687" alt="Image" src="https://github.com/user-attachments/assets/f1118f5c-eedc-4d47-9142-2e9c61058b7c" />
 
 <img width="1275" height="626" alt="Image" src="https://github.com/user-attachments/assets/41f43254-2e41-49db-b8a9-e1baae7b6462" />
 
