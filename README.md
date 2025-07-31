@@ -48,3 +48,23 @@ model decisions need to be explainable.
 In conclusion, the aim of the code is to provide a complete, understandable, and reproducible example of using a decision tree classifier for a multi-class classification task. It utilizes popular Python libraries, follows industry-standard machine learning workflow steps, and emphasizes model interpretability and data visualization. While the dataset is simple, the methodology applies to much more complex
 real-world problems, and the techniques used here are foundational for further study and application in data science and artificial intelligence. The code not only teaches how to build a machine learning 
 model but also how to understand and trust it, which is a critical part of responsible AI development.
+
+
+##OUTPUT
+<img width="1336" height="642" alt="Image" src="https://github.com/user-attachments/assets/c8e87a54-8f19-45fd-aafa-a78b517b275c" />
+
+<img width="1057" height="627" alt="Image" src="https://github.com/user-attachments/assets/872c26bc-b912-4b96-93cd-eb6ff844e01d" />
+
+<img width="901" height="415" alt="Image" src="https://github.com/user-attachments/assets/61270941-2416-4f98-8f69-1efbdf58cd58" />
+
+<img width="1275" height="626" alt="Image" src="https://github.com/user-attachments/assets/1162f386-64e1-495c-8961-f36326e5b207" />
+
+<img width="1601" height="652" alt="Image" src="https://github.com/user-attachments/assets/a2fa9586-28a6-455a-b93c-f7712e9e4535" />
+
+<img width="1752" height="656" alt="Image" src="https://github.com/user-attachments/assets/423e2edc-e5e0-4ad3-a544-3d9af4e56278" />
+
+<img width="1640" height="577" alt="Image" src="https://github.com/user-attachments/assets/5522b0ba-8d3b-4004-ad76-8d1d886c531c" />
+
+<img width="1675" height="346" alt="Image" src="https://github.com/user-attachments/assets/24b91c7c-e910-4cd1-b117-d4927503d182" />
+
+<img width="1688" height="365" alt="Image" src="https://github.com/user-attachments/assets/f5dcda68-96fa-4922-8d74-6f8b580313b3" />
